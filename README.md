@@ -1,3 +1,3 @@
 # avian
-genome information
+genome information:
 Genome assembly and annotation data of five Emberiza species.
